@@ -1,0 +1,8 @@
+prefix=/home/yang/de06/devel
+
+Name: de04_nodelet
+Description: Description of de04_nodelet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

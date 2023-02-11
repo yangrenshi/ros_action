@@ -1,0 +1,19 @@
+<!-- 插件库的相对路径 -->
+<!-- 
+    需要定位动态连接
+        library 根标签下的 path 属性设置
+    声明子类与父类
+        library 的子标签 class 声明
+-->
+<library path="lib/libde03_plug">
+  <!-- type="插件类" base_class_type="基类" -->
+  <class type="dbx_plugins_ns::SanBian" base_class_type="dbx_base_ns::Dbx_Base">
+    <!-- 描述信息 -->
+    <description>这是哦正三变形插件</description>
+  </class>
+
+  <class type="dbx_plugins_ns::SiBian" base_class_type="dbx_base_ns::Dbx_Base">
+    <!-- 描述信息 -->
+    <description>这是哦正四变形插件</description>
+  </class>
+</library>

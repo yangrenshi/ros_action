@@ -1,0 +1,8 @@
+prefix=/home/yang/de06/devel
+
+Name: dde03_plug
+Description: Description of dde03_plug
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

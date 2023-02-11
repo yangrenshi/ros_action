@@ -1,0 +1,2 @@
+de01_action:de02_dr:de03_plug:de04_nodelet
+-DCATKIN_DEVEL_PREFIX=/home/yang/de06/devel -DCMAKE_INSTALL_PREFIX=/home/yang/de06/install -G Unix Makefiles

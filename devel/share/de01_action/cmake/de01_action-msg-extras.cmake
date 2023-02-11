@@ -1,0 +1,2 @@
+set(de01_action_MESSAGE_FILES "/home/yang/de06/devel/share/de01_action/msg/AddIntsAction.msg;/home/yang/de06/devel/share/de01_action/msg/AddIntsActionGoal.msg;/home/yang/de06/devel/share/de01_action/msg/AddIntsActionResult.msg;/home/yang/de06/devel/share/de01_action/msg/AddIntsActionFeedback.msg;/home/yang/de06/devel/share/de01_action/msg/AddIntsGoal.msg;/home/yang/de06/devel/share/de01_action/msg/AddIntsResult.msg;/home/yang/de06/devel/share/de01_action/msg/AddIntsFeedback.msg")
+set(de01_action_SERVICE_FILES "")
